@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp10Transpose_a_matrix_in_Csharp
 {
 
-    //SOURCE https://www.tutorialspoint.com/Transpose-a-matrix-in-Chash ok
+    //SOURCE   https://www.tutorialspoint.com/Transpose-a-matrix-in-Chash ok
     class Program
     {
         public static void Main()
